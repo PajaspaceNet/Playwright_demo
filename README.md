@@ -1,4 +1,4 @@
-# Playwright POC
+# Playwright DEMO POC
 
 Jednoduchá ukázka automatizovaného testu v Pythonu pomocí Playwright.
 
@@ -15,7 +15,7 @@ playwright install
 python run_tests.py
 ```
 
-##Je tu nekolik moznosti spustit jednoduche testy 
+## Je tu nekolik moznosti spustit jednoduche testy 
 
 ```bash
 python run_tests.py
@@ -23,16 +23,16 @@ python run_tests.py
 
 ## nebo vice komplexni , ktere spusti kontrolu ve vice prohlizecich
 
-jsou ve slozce run_test2
+- jsou ve slozce run_test2
 
-##mame moznosti 
-##spusti testy v kazdem prohlizeci a vypise kazdy prohlizec zvlast 
+## mame moznosti 
+ * spusti testy v kazdem prohlizeci a vypise kazdy prohlizec zvlast 
 ```bash
 python test_complex.py
 ```
 
-spusti testy v kazdem prohlizeci a vypise jen testOK
-nebo 
+* spusti testy v kazdem prohlizeci a vypise jen testOK
+
 ```bash
 python run_test2.py
 ```
