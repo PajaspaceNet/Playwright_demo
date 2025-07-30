@@ -14,6 +14,8 @@ playwright install
 ```bash
 python run_tests.py
 ```
+* spusti test_example ve slozce tests 
+
 
 ## Je tu nekolik moznosti spustit jednoduche testy 
 
@@ -24,6 +26,7 @@ python run_tests.py
 ## nebo vice komplexni , ktere spusti kontrolu ve vice prohlizecich
 
 - jsou ve slozce run_test2
+- tip:: pro jednoduchost je spoustime primo ze slozky
 
 ## mame moznosti 
  * spusti testy v kazdem prohlizeci a vypise kazdy prohlizec zvlast 
